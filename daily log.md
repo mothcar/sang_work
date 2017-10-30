@@ -37,6 +37,8 @@ $ sails generate api test
 #### 6. mixed - vue and sails : [link](https://github.com/juliandavidmr/Template-SailsJS-Vue)
 #### 7. firebase : [link](https://github.com/denismars/hackernews)
 #### 8. with mongo : [link](https://github.com/sunshine824/News-Movies)
+#### 9. express, vue, mongo : [link](https://github.com/Yicoding/vue-node-express-mysql-mongodb)
+
 
 
 #### 3. Sample login : /Downloads/vue-login-master
@@ -53,6 +55,7 @@ $ sails generate api test
 1. Photoshop 설치
 2. postman
 3. atom
+4. weex에 대해서 조사
 ```
 
 
