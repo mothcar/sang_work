@@ -19,6 +19,9 @@
 // create project
 $ sails new first
 
+// connect orientDB module
+"sails-orientdb": "^0.10.60"
+
 // install modules by package
 $ npm install
 
@@ -26,7 +29,17 @@ $ npm install
 $ sails generate api test
 ```
 
-#### 2. Sample login : /Downloads/vue-login-master
+
+#### 2. sample code : [link](http://blog.storyg.co/vue-js-posts/todos-tutorial)
+#### 3. connect server : [link](https://alligator.io/vuejs/rest-api-axios/)
+#### 4. sample - vue and sails : [link](https://github.com/ndabAP/vue-sails-example)
+#### 5. sample - chat : [link](https://github.com/davidfigueroar9/chat-vue-sails)
+#### 6. mixed - vue and sails : [link](https://github.com/juliandavidmr/Template-SailsJS-Vue)
+#### 7. firebase : [link](https://github.com/denismars/hackernews)
+#### 8. with mongo : [link](https://github.com/sunshine824/News-Movies)
+
+
+#### 3. Sample login : /Downloads/vue-login-master
 
 
 
@@ -38,6 +51,8 @@ $ sails generate api test
 ## 상필 homework
 ```
 1. Photoshop 설치
+2. postman
+3. atom
 ```
 
 
