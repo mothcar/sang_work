@@ -16,7 +16,14 @@
 #### 1. sails + orientDB + Vue : test
 ##### sails install
 ```
+// create project
 $ sails new first
+
+// install modules by package
+$ npm install
+
+// generate test api
+$ sails generate api test
 ```
 
 #### 2. Sample login : /Downloads/vue-login-master
