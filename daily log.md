@@ -14,6 +14,13 @@
 
 ### Me 
 #### 1. sails + orientDB + Vue : test
+##### sails install
+```
+$ sails new first
+```
+
+#### 2. Sample login : /Downloads/vue-login-master
+
 
 
 
