@@ -2,6 +2,16 @@
 <br/>
 <br/>
 
+
+### 2017년 11월 3일
+#### 1. 오답 
+##### &nbsp;&nbsp;&nbsp; 1) Network Error
+```
+// config / cors.js
+allRoutes: true
+```
+
+
 ### 2017년 11월 2일  
 #### 1. axios : [link](https://alligator.io/vuejs/rest-api-axios/)
 #### 2. To do :
