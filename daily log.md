@@ -5,9 +5,13 @@
 ### 2017년 11월 2일  
 #### 1. axios : [link](https://alligator.io/vuejs/rest-api-axios/)
 #### 2. To do :
+
 &nbsp;&nbsp;&nbsp; ##### 1) axios
+
 &nbsp;&nbsp;&nbsp; ##### 2) vuex
+
 &nbsp;&nbsp;&nbsp; ##### 3) weex
+
 
 
 <br/>
