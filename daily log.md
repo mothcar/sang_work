@@ -1,6 +1,8 @@
 <br/>
 <br/>
 <br/>
+&nbsp;&nbsp;&nbsp;
+
 
 
 ### 2017년 11월 3일
@@ -10,6 +12,13 @@
 // config / cors.js
 allRoutes: true
 ```
+#### 2. sails + vue + orientDB :success
+##### &nbsp;&nbsp;&nbsp; 1) server : dev/study/vue/first/
+##### &nbsp;&nbsp;&nbsp; 2) client : dev/study/vue/test/my-project
+
+<br/>
+<br/>
+
 
 
 ### 2017년 11월 2일  
