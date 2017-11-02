@@ -50,7 +50,7 @@ $ sails generate api test
 
 #### 2. sample code : [link](http://blog.storyg.co/vue-js-posts/todos-tutorial)
 #### 3. connect server : [link](https://alligator.io/vuejs/rest-api-axios/)
-#### 4. sample - vue and sails : [link](https://github.com/ndabAP/vue-sails-example)
+#### 4. front and server - vue and sails : [link](https://github.com/ndabAP/vue-sails-example)
 #### 5. sample - chat : [link](https://github.com/davidfigueroar9/chat-vue-sails)
 #### 6. mixed - vue and sails : [link](https://github.com/juliandavidmr/Template-SailsJS-Vue)
 #### 7. firebase : [link](https://github.com/denismars/hackernews)
