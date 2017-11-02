@@ -7,7 +7,7 @@
 #### 2. To do :
 
 ##### &nbsp;&nbsp;&nbsp; 1) axios
-###### &nbsp;&nbsp;&nbsp; youtube : [link](https://www.youtube.com/watch?v=REqu-nKek-o)
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; youtube : [link](https://www.youtube.com/watch?v=REqu-nKek-o)
 
 ##### &nbsp;&nbsp;&nbsp; 2) vuex
 
