@@ -45,9 +45,16 @@ $ npm run dev
 ```
 $ sails generate api test
 ```
+##### &nbsp;&nbsp;&nbsp; 8) install Axios for http transport
+```
+$ npm install axios --save
+```
 
 
 
+<br/>
+<br/>
+<br/>
 
 ### 2017년 11월 3일
 #### 1. 오답 
