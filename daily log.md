@@ -4,6 +4,17 @@
 &nbsp;&nbsp;&nbsp;
 
 
+### 2017년 11월 3일
+#### 1. OrientDB Study 
+##### &nbsp;&nbsp;&nbsp; 1) install sails
+```
+$ sails new some-project-name
+```
+##### &nbsp;&nbsp;&nbsp; 2) npm sails-orientdb
+```
+$ npm install sails-orientdb --save  
+```
+
 
 ### 2017년 11월 3일
 #### 1. 오답 
