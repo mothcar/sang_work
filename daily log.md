@@ -14,6 +14,35 @@ $ sails new some-project-name
 ```
 $ npm install sails-orientdb --save  
 ```
+##### &nbsp;&nbsp;&nbsp; 3) start orientDB server
+```
+$ cd orientdb
+$ cd bin
+$ ./server.sh
+```
+##### &nbsp;&nbsp;&nbsp; 4) configure sails
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; config/connections.js
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; config/connections.js  change database name : 'some name' (ex, pause)
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; config/models.js
+
+##### &nbsp;&nbsp;&nbsp; 5) create test database on orientDB 
+```
+http://localhost:2480/studio/index.html
+// 1. create database name
+// 2. id : root
+// 3. pw : default password
+```
+
+##### &nbsp;&nbsp;&nbsp; 6) create client server
+```
+$ npm install -g vue-cli
+$ vue init webpack my-project
+$ cd my-project
+$ npm install
+$ npm run dev
+```
+
+
 
 
 ### 2017년 11월 3일
