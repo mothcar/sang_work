@@ -41,6 +41,10 @@ $ cd my-project
 $ npm install
 $ npm run dev
 ```
+##### &nbsp;&nbsp;&nbsp; 7) Generate model and controller
+```
+$ sails generate api test
+```
 
 
 
