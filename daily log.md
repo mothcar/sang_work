@@ -51,7 +51,8 @@ $ npm install axios --save
 ```
 ##### &nbsp;&nbsp;&nbsp; 9) final modify
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1: Server - config/cors.js // allRoutes: true,
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2: 
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2: Vuetify :[link](https://github.com/vuetifyjs/vuetify)
+
 
 
 
