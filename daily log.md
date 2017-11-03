@@ -49,6 +49,9 @@ $ sails generate api test
 ```
 $ npm install axios --save
 ```
+##### &nbsp;&nbsp;&nbsp; 9) final modify
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1: Server - config/cors.js // allRoutes: true,
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2: 
 
 
 
